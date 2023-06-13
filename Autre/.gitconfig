@@ -1,0 +1,10 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = GaryTheCaptain
+	email = 106530489+GaryTheCaptn@users.noreply.github.com
+[credential "http://proxybkp.si.francetelecom.fr:8080"]
+	provider = generic
