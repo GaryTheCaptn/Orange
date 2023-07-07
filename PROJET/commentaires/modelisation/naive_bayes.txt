@@ -1,4 +1,0 @@
-Accuracy : proportion de predictions correctes (VP + VN /(VP+VN+FN+FP)) : 88.70599999999999% 
-Rappel : proportion de reussites correctement predites sur l'ensemble des reussites (VP/(VP+FN)): 89.157% 
-Specificite : proportion d'echecs correctement predits sur l'ensemble des echecs (VN/(VN+FP)) : 85.437% 
-Valeur predictive negative: proportion de veritables echecs parmi les echecs predits (VN/(VN+FN)) : 52.071% 
