@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c85e5df1-ab2f-4cf8-abc5-f6e4368eed7d" name="Changes" comment="fini" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2RkDEiCL54248uK6ffY4GllZOVG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SPML0410\Documents\MachineLearning2\projet" />
+      <recent name="C:\Users\SPML0410\Documents\MachineLearning2\projet\Projet 3 - Type PB" />
+      <recent name="C:\Users\SPML0410\Documents\MachineLearning2\projet\Projet 2 - Distance au PB" />
+      <recent name="C:\Users\SPML0410\Documents\MachineLearning2\projet\traitement\commentaires" />
+      <recent name="C:\Users\SPML0410\Documents\MachineLearning2\projet\Ancien\distance PB" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c85e5df1-ab2f-4cf8-abc5-f6e4368eed7d" name="Changes" comment="" />
+      <created>1687785076218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687785076218</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Sauvegarde des fichiers jupyter et remise en place.">
+      <created>1687785420795</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687785420795</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Sauvegarde des fichiers jupyter et remise en place.">
+      <created>1687785528759</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687785528759</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dubut de pythonisation">
+      <created>1687794519326</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687794519326</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fin export de la prepa donnée et emplacement">
+      <created>1687855529318</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687855529318</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fin de maj de preparation.py : nettoyage des colonnes, codes erreurs, choix sauvegarde et de ficher. Debut de modelisation.py.">
+      <created>1687881300632</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687881300632</updated>
+    </task>
+    <task id="LOCAL-00006" summary="maj preparation.py et avancement modelisation.py.">
+      <created>1687956912537</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687956912537</updated>
+    </task>
+    <task id="LOCAL-00007" summary="statistiques modele">
+      <created>1687967877972</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687967877972</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Documentation fonctions">
+      <created>1688046438728</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688046438728</updated>
+    </task>
+    <task id="LOCAL-00009" summary="rangement dossiers et documentation création df score">
+      <created>1688049212004</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1688049212004</updated>
+    </task>
+    <task id="LOCAL-00010" summary="rangement dossiers et documentation création df score">
+      <created>1688050651024</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1688050651024</updated>
+    </task>
+    <task id="LOCAL-00011" summary="rangement dossiers et documentation création df score">
+      <created>1688058424062</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1688058424062</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fin transfert des PB avec fonctions totales">
+      <created>1688114849065</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1688114849065</updated>
+    </task>
+    <task id="LOCAL-00013" summary="croisement d'ETI31 sur GCP et importation avant modélisation">
+      <created>1688377619776</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1688377619776</updated>
+    </task>
+    <task id="LOCAL-00014" summary="croisement d'ETI31 sur GCP et importation avant modélisation">
+      <created>1688383432211</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1688383432211</updated>
+    </task>
+    <task id="LOCAL-00015" summary="preparation pour distance et adresses nouvelle version">
+      <created>1688398312780</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1688398312780</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fin de la partie traitement et debut modelisation">
+      <created>1688731947135</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1688731947135</updated>
+    </task>
+    <task id="LOCAL-00017" summary="modelisation fichiers">
+      <created>1688744619136</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1688744619136</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fin modelisation et debut statistiques">
+      <created>1689068913828</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1689068913828</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fini">
+      <created>1689261714273</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1689261714273</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Sauvegarde des fichiers jupyter et remise en place." />
+    <MESSAGE value="dubut de pythonisation" />
+    <MESSAGE value="Fin export de la prepa donnée et emplacement" />
+    <MESSAGE value="Fin de maj de preparation.py : nettoyage des colonnes, codes erreurs, choix sauvegarde et de ficher. Debut de modelisation.py." />
+    <MESSAGE value="maj preparation.py et avancement modelisation.py." />
+    <MESSAGE value="statistiques modele" />
+    <MESSAGE value="Documentation fonctions" />
+    <MESSAGE value="rangement dossiers et documentation création df score" />
+    <MESSAGE value="fin transfet des PB avec fonctions totales" />
+    <MESSAGE value="fin transfert des PB avec fonctions totales" />
+    <MESSAGE value="croisement d'ETI31 sur GCP et importation avant modélisation" />
+    <MESSAGE value="preparation pour distance et adresses nouvelle version" />
+    <MESSAGE value="fin de la partie traitement et debut modelisation" />
+    <MESSAGE value="modelisation fichiers" />
+    <MESSAGE value="fin modelisation et debut statistiques" />
+    <MESSAGE value="fini" />
+    <option name="LAST_COMMIT_MESSAGE" value="fini" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="label_echec" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
